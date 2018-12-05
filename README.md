@@ -5,8 +5,6 @@ To download the mod visit https://github.com/CS-CO/Classic-Offensive/releases/la
 
 If you want to report a bug you found create a new issue at https://github.com/CS-CO/Classic-Offensive/issues/new
 
--
-
 
 <a href="http://www.moddb.com/mods/counter-strike-classic-offensive/images/csco-wallpaper" title="Wallpaper - Mod DB" target="_blank"><img src="http://media.moddb.com/cache/images/mods/1/31/30832/thumb_620x2000/classiclogo.1.png" alt="Wallpaper" width="100%" height="100%"/></a>
 -
